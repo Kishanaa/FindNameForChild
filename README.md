@@ -1,2 +1,2 @@
 # FindNameForChild
-In this app you can find games for child
+In this app you can find names for child
